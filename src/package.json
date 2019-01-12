@@ -1,0 +1,9 @@
+{
+  "name": "nativescript-yoga-lib",
+  "version": "1.0.0",
+  "nativescript": {
+    "platforms": {
+      "ios": "4.0.0"
+    }
+  }
+}
