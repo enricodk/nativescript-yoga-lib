@@ -11,5 +11,5 @@ See the [NativeScript CLI documentation](https://docs.nativescript.org/tooling/d
 and [Nativescript Plugin documentation](https://docs.nativescript.org/core-concepts/plugins) for more details
 
 ## Notes
-This plugin only provides the iOS [Yoga/YogaKit](https://yogalayout.com/) library from CocoaPods,
+This plugin only provides the iOS [YogaKit](https://yogalayout.com/) library from CocoaPods,
 and doesn't provide any JavaScript wrappers or APIs
