@@ -1,6 +1,26 @@
 {
   "name": "nativescript-yoga-lib",
   "version": "1.0.0",
+  "description": "Yoga layout engine plugin for Nativescript",
+  "author": "Enrico de Klerk",
+  "license" : "MIT",
+  "homepage": "https://github.com/enricodk/nativescript-yoga-lib",
+  "readmeFilename": "README.md",
+
+  "keywords": [
+    "native",
+    "nativescript",
+    "nativescript-plugin",
+    "yoga",
+    "layout",
+    "ios"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enricodk/nativescript-yoga-lib.git"
+  },
+
   "nativescript": {
     "platforms": {
       "ios": "4.0.0"
